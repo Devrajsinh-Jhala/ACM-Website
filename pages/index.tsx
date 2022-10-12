@@ -4,7 +4,7 @@ import { HeroSection } from "../containers";
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-dark">
+    <div className="bg-dark h-screen w-screen">
       <Head>
         <title>ACM PDEU Chapter</title>
         <link rel="icon" href="/favicon.ico" />
