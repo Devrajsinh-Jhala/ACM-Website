@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { HeroSection } from "../containers";
+import { ContactUs, HeroSection, TeamSection } from "../containers";
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-dark h-screen w-screen">
+    <div className="bg-dark h-screen w-screen overflow-x-hidden">
       <Head>
         <title>ACM PDEU Chapter</title>
         <link rel="icon" href="/favicon.ico" />
@@ -12,6 +12,8 @@ const Home: NextPage = () => {
 
       <main>
         <HeroSection />
+        <TeamSection />
+        <ContactUs />
       </main>
     </div>
   );

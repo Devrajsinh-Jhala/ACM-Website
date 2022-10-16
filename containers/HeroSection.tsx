@@ -18,14 +18,14 @@ const HeroSection = () => {
             Let's get in touch
           </button>
         </div>
-        <div className="flex items-center justify-center w-[100%]">
+        {/* <div className="flex items-center justify-center w-[100%]">
           <div className="absolute bottom-10">
             <div className="flex space-x-4 cursor-pointer">
               <span className="animate-bounce text-2xl">↓</span>
               <span>Know more</span>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
     </>
   );
