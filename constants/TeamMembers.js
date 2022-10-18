@@ -1,11 +1,9 @@
-import Devanshu from "../assets/devanshu.jpg";
-import SohanS from "../assets/sohan.jpg";
 export const facultyMembers = [
   {
     image:
       "https://media-exp1.licdn.com/dms/image/C4D03AQF1bWSZaH5MYA/profile-displayphoto-shrink_100_100/0/1650464524986?e=1671667200&v=beta&t=vpzks1lkcmPO5zBJFGcwQi2TzLJCyyM8eZ3bQH4hF-s",
     name: "Dr. Samir Patel",
-    designation: "H.O.D. Computer Engineering",
+    designation: "H.O.D. Computer Eng.",
   },
   {
     image:
@@ -28,7 +26,12 @@ export const officers = [
     name: "Hardeep Patel",
     designation: "Vice Chairperson",
   },
-  { image: Devanshu, name: "Devanshu Mehta", designation: "Treasurer" },
+  {
+    image:
+      "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    name: "Devanshu Mehta",
+    designation: "Treasurer",
+  },
   {
     image:
       "https://media-exp1.licdn.com/dms/image/C4D03AQGsLEMWNkN-CQ/profile-displayphoto-shrink_100_100/0/1654362261338?e=1671667200&v=beta&t=BmP_iwFljrq0tWmZepfTMWiL_TndeVvxB0MBTbD8kyk",
@@ -73,5 +76,9 @@ export const teamMembers = [
       "https://media-exp1.licdn.com/dms/image/D4D35AQE3Z2hwS2nX-w/profile-framedphoto-shrink_100_100/0/1634452610789?e=1666522800&v=beta&t=XnPKJPQfYgGMMBQh0iIc0YBt-HzVbHGMp19wbdEoCI4",
     name: "Aum Davda",
   },
-  { image: SohanS, name: "Sohan Sakariya" },
+  {
+    image:
+      "https://media-exp1.licdn.com/dms/image/C4D03AQH78ThHhF3KjA/profile-displayphoto-shrink_100_100/0/1631080686060?e=1671667200&v=beta&t=vLID46kSBn3SQIZwpg6PJomZp4HhGIF7w7JzbMEvHWw",
+    name: "Sohan Sakariya",
+  },
 ];

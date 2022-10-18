@@ -21,7 +21,7 @@ const HeroSection = () => {
             corrupti aperiam amet.
           </p>
           <button className="bg-blue-500 hover:bg-blue-700 mt-5 p-3 rounded-lg ">
-            Let's get in touch
+            <a href="#contact">Let's get in touch</a>
           </button>
         </div>
 
