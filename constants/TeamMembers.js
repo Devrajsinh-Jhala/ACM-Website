@@ -61,21 +61,21 @@ export const teamMembers = [
       "https://media-exp1.licdn.com/dms/image/C4D03AQEGI3xGCcqtug/profile-displayphoto-shrink_100_100/0/1645759285909?e=1671667200&v=beta&t=f_kv0AvZLrKYA913AMBpmO6u54mWMIpknhu89aQIUYM",
     name: "Meet Mehta",
   },
-  // {
-  //   image:
-  //     "https://media-exp1.licdn.com/dms/image/C4D03AQGzOhPWOqYTQA/profile-displayphoto-shrink_400_400/0/1655304743647?e=1671667200&v=beta&t=eBv-gD2BiLI8ockAIU5vuO32U8M6inhdTELS7IkDdSg",
-  //   name: "Devrajsinh Jhala",
-  // },
+  {
+    image:
+      "https://media-exp1.licdn.com/dms/image/C4D03AQGzOhPWOqYTQA/profile-displayphoto-shrink_400_400/0/1655304743647?e=1671667200&v=beta&t=eBv-gD2BiLI8ockAIU5vuO32U8M6inhdTELS7IkDdSg",
+    name: "Devrajsinh Jhala",
+  },
   {
     image:
       "https://media-exp1.licdn.com/dms/image/C5603AQEkO_RNQRFVBw/profile-displayphoto-shrink_100_100/0/1648189309685?e=1671667200&v=beta&t=YzpxzGFlyP27KlMlTnlioPvKTg01IERWwtLqzCjJcao",
     name: "Harsh Varmora",
   },
-  {
-    image:
-      "https://media-exp1.licdn.com/dms/image/D4D35AQE3Z2hwS2nX-w/profile-framedphoto-shrink_100_100/0/1634452610789?e=1666522800&v=beta&t=XnPKJPQfYgGMMBQh0iIc0YBt-HzVbHGMp19wbdEoCI4",
-    name: "Aum Davda",
-  },
+  // {
+  //   image:
+  //     "https://media-exp1.licdn.com/dms/image/D4D35AQE3Z2hwS2nX-w/profile-framedphoto-shrink_100_100/0/1634452610789?e=1666522800&v=beta&t=XnPKJPQfYgGMMBQh0iIc0YBt-HzVbHGMp19wbdEoCI4",
+  //   name: "Aum Davda",
+  // },
   {
     image:
       "https://media-exp1.licdn.com/dms/image/C4D03AQH78ThHhF3KjA/profile-displayphoto-shrink_100_100/0/1631080686060?e=1671667200&v=beta&t=vLID46kSBn3SQIZwpg6PJomZp4HhGIF7w7JzbMEvHWw",

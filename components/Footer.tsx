@@ -20,7 +20,7 @@ const Footer = () => {
           ))}
         </ul>
         <ul className="flex items-center justify-center space-x-5 my-10">
-          <li className="">
+          {/* <li className="">
             <a target={"_blank"} href="http://www.facebook.com">
               <BsFacebook
                 className="hover:scale-125 transition-all duration-200 ease-in-out"
@@ -28,9 +28,9 @@ const Footer = () => {
                 size={30}
               />
             </a>
-          </li>
+          </li> */}
           <li className="">
-            <a target={"_blank"} href="http://www.instagram.com">
+            <a target={"_blank"} href="https://www.instagram.com/acm_pdeu/">
               <BsInstagram
                 className="hover:scale-125 transition-all duration-200 ease-in-out"
                 color="white"
@@ -39,7 +39,10 @@ const Footer = () => {
             </a>
           </li>
           <li className="">
-            <a target={"_blank"} href="http://www.linkedin.com">
+            <a
+              target={"_blank"}
+              href="https://www.linkedin.com/company/acm-pdeu-student-chapter"
+            >
               <BsLinkedin
                 className="hover:scale-125 transition-all duration-200 ease-in-out"
                 color="white"

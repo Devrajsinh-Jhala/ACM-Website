@@ -11,7 +11,7 @@ const ContactUs = () => {
       <div className="contact_us_container flex flex-col-reverse  lg:flex-row items-center justify-between xl:justify-center xl:space-x-14 px-24">
         <div className="left_section flex items-center">
           <ul className="pr-8 hidden md:block -mt-24">
-            <li className="my-8">
+            {/* <li className="my-8">
               <a target={"_blank"} href="http://www.facebook.com">
                 <BsFacebook
                   className="hover:scale-125 transition-all duration-200 ease-in-out"
@@ -19,9 +19,9 @@ const ContactUs = () => {
                   size={30}
                 />
               </a>
-            </li>
+            </li> */}
             <li className="mb-8">
-              <a target={"_blank"} href="http://www.instagram.com">
+              <a target={"_blank"} href="https://www.instagram.com/acm_pdeu/">
                 <BsInstagram
                   className="hover:scale-125 transition-all duration-200 ease-in-out"
                   color="white"
@@ -30,7 +30,10 @@ const ContactUs = () => {
               </a>
             </li>
             <li className="">
-              <a target={"_blank"} href="http://www.linkedin.com">
+              <a
+                target={"_blank"}
+                href="https://www.linkedin.com/company/acm-pdeu-student-chapter"
+              >
                 <BsLinkedin
                   className="hover:scale-125 transition-all duration-200 ease-in-out"
                   color="white"
