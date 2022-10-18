@@ -62,7 +62,7 @@ const TeamSection = () => {
 
         <div className="flex flex-col items-center justify-center mt-4">
           <h1 className="text-2xl my-5">Our Web Team</h1>
-          <div className="grid grid-cols-2 relative text-center gap-3 lg:grid-cols-5">
+          <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
             {teamMembers.map((teamMember, i) => (
               <div className="" key={i}>
                 <FacultyCards
