@@ -20,8 +20,8 @@ const Navbar = () => {
           className="cursor-pointer"
           src={logo}
           alt="ACM PDEU Logo"
-          width={50}
-          height={50}
+          width={40}
+          height={40}
         />
 
         <div

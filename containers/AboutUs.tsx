@@ -16,6 +16,15 @@ const AboutUs = () => {
         contests, conferences, student research symposiums, summer schools and
         many more.
       </p>
+      <p className="py-5 2xl:max-w-[1120px]">
+        Founded at the dawn of the computer age, ACM’s reach extends to every
+        part of the globe, with more than half of its more than 100,000 members
+        residing outside the U.S. Its growing membership has led to Councils in
+        Europe, India, and China, fostering networking opportunities that
+        strengthen ties within and across countries and technical communities.
+        Their actions enhance ACM’s ability to raise awareness of computing’s
+        important technical, educational, and social issues around the world.
+      </p>
 
       <p className="py-5 2xl:max-w-[1120px]">
         Its impact can be assessed from the publications from top computer
