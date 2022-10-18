@@ -7,7 +7,7 @@ import { AiOutlineClose } from "react-icons/ai";
 const Navbar = () => {
   const navLinks = [
     { index: 1, name: "Home", link: "#home" },
-    { index: 2, name: "About Us", link: "about" },
+    { index: 2, name: "About Us", link: "#about" },
     { index: 3, name: "Team", link: "#team" },
     { index: 4, name: "Contact Us", link: "#contact" },
   ];
