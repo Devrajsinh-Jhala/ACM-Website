@@ -1,5 +1,5 @@
 import Devanshu from "../assets/devanshu.jpg";
-import Sohan from "../assets/sohan.jpg";
+import SohanS from "../assets/sohan.jpg";
 export const facultyMembers = [
   {
     image:
@@ -73,5 +73,5 @@ export const teamMembers = [
       "https://media-exp1.licdn.com/dms/image/D4D35AQE3Z2hwS2nX-w/profile-framedphoto-shrink_100_100/0/1634452610789?e=1666522800&v=beta&t=XnPKJPQfYgGMMBQh0iIc0YBt-HzVbHGMp19wbdEoCI4",
     name: "Aum Davda",
   },
-  { image: Sohan, name: "Sohan Sakariya" },
+  { image: SohanS, name: "Sohan Sakariya" },
 ];
